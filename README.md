@@ -25,13 +25,14 @@ Run python main.py to start.
 Follow the menu: Add expenses, view lists, generate reports.
 
 Data saves to data/expenses.csv.
-# structure
-'''bash
+## Project Structure
+
+```bash
 python-finance-manager/
 │
 ├── main.py
 ├── requirements.txt
-├── README.md               # Use the improved README from my previous response
+├── README.md
 │
 ├── src/
 │   ├── expense.py
@@ -41,7 +42,8 @@ python-finance-manager/
 │   └── utils.py
 │
 ├── data/
-│   └── expenses.csv        # (This will be created automatically)
+│   └── expenses.csv
+
 # Example:
 
 Enter choice: 1
