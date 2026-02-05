@@ -26,6 +26,21 @@ Follow the menu: Add expenses, view lists, generate reports.
 
 Data saves to data/expenses.csv.
 
+python-finance-manager/
+│
+├── main.py
+├── requirements.txt
+├── README.md               # Use the improved README from my previous response
+│
+├── src/
+│   ├── expense.py
+│   ├── file_manager.py
+│   ├── menu.py
+│   ├── reports.py
+│   └── utils.py
+│
+├── data/
+│   └── expenses.csv        # (This will be created automatically)
 # Example:
 
 Enter choice: 1
