@@ -25,7 +25,8 @@ Run python main.py to start.
 Follow the menu: Add expenses, view lists, generate reports.
 
 Data saves to data/expenses.csv.
-
+# structure
+'''bash
 python-finance-manager/
 │
 ├── main.py
