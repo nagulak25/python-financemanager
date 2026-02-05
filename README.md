@@ -27,9 +27,8 @@ Follow the menu: Add expenses, view lists, generate reports.
 
 Data saves to data/expenses.csv.
 
-## Project Structure
-
-```bash
+# Project Structure
+``bash
 python-finance-manager/
 │
 ├── main.py
@@ -46,8 +45,8 @@ python-finance-manager/
 ├── data/
 │   └── expenses.csv
 
-```md
-# Example:
+
+##  Usage
 
 Enter choice: 1
 Enter amount: 1500
