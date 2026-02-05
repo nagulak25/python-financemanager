@@ -46,7 +46,8 @@ python-finance-manager/
 ├── data/
 │   └── expenses.csv
 
-## Example:
+```md
+# Example:
 
 Enter choice: 1
 Enter amount: 1500
@@ -62,6 +63,10 @@ Feel free to fork and submit pull requests.
 MIT License. See LICENSE for details.
 
 For issues or questions, open a GitHub issue. Project by keerthana nagula.
+
+
+
+
 
 
 
