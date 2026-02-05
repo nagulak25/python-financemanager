@@ -10,19 +10,23 @@ Category-wise and monthly summaries
 Data backup/restore
 
 Input validation and error handling
-##Installation
-```bash
+
+# Installation
 Clone the repo: git clone https://github.com/nagulak25/python-finance-manager.git
+
 Navigate: cd python-finance-manager
+
 Run: python main.py
+
 Requires Python 3.x. No external dependencies.
 
-
 ##  Usage
-```bash
 Run python main.py to start.
+
 Follow the menu: Add expenses, view lists, generate reports.
+
 Data saves to data/expenses.csv.
+
 ## Project Structure
 
 ```bash
@@ -42,8 +46,8 @@ python-finance-manager/
 ├── data/
 │   └── expenses.csv
 
-# Example:
-```bash
+## Example:
+
 Enter choice: 1
 Enter amount: 1500
 Enter category: Food
