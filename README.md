@@ -4,6 +4,7 @@ A command-line-based Python application designed to help users record, store, an
 
 # Features
 Add and view expenses
+
 Category-wise and monthly summaries
 Data backup/restore
 Input validation and error handling
